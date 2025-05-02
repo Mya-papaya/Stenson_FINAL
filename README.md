@@ -4,5 +4,7 @@ For accessibility purposes, I included alt text and an interactive “magnifying
 
 In the future, I hope to expand this project—using the index page as a landing space for my bio and headshot, and incorporating a navigation bar that links to additional themed galleries.
 
-[![Watch the gallery walkthrough](https://img.youtube.com/vi/60V_lUBHGwA/hqdefault.jpg)](https://www.youtube.com/watch?v=60V_lUBHGwA)
+Here is my gallery walkthrough!
+[Watch the video on YouTube](https://www.youtube.com/watch?v=60V_lUBHGwA)
+
 
